@@ -28,14 +28,13 @@ img {
   font-size: 20px;
   font-weight: normal;
   color: #474747 !important;
-  padding: 18px 25px !important;
+  padding: 18px 50px 18px 0 !important;
 }
 .nav_menu ul li a.active {
   color: #fd6e0a !important;
 }
 .nav_menu ul li:last-child a {
   padding: 18px 36px !important;
-  margin-left: 25px;
   background-color: #fd6e0a;
   font-weight: bold;
   color: #fff !important;
